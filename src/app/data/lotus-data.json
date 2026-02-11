@@ -1,0 +1,151 @@
+{
+  "price": {
+    "title": "Lotus Flower Prices",
+    "description": "Current market prices for various lotus flower varieties across regions.",
+    "items": [
+      { "variety": "Sacred Lotus (Nelumbo nucifera)", "pricePerStem": 3.50, "pricePerBunch": 25.00, "currency": "USD", "region": "Southeast Asia" },
+      { "variety": "American Lotus (Nelumbo lutea)", "pricePerStem": 4.00, "pricePerBunch": 30.00, "currency": "USD", "region": "North America" },
+      { "variety": "White Lotus", "pricePerStem": 5.00, "pricePerBunch": 35.00, "currency": "USD", "region": "India" },
+      { "variety": "Pink Lotus", "pricePerStem": 3.00, "pricePerBunch": 22.00, "currency": "USD", "region": "China" },
+      { "variety": "Blue Lotus (Nymphaea caerulea)", "pricePerStem": 8.00, "pricePerBunch": 55.00, "currency": "USD", "region": "Egypt" },
+      { "variety": "Red Lotus", "pricePerStem": 4.50, "pricePerBunch": 32.00, "currency": "USD", "region": "Thailand" },
+      { "variety": "Dwarf Lotus", "pricePerStem": 6.00, "pricePerBunch": 42.00, "currency": "USD", "region": "Japan" },
+      { "variety": "Double-Petal Lotus", "pricePerStem": 7.50, "pricePerBunch": 50.00, "currency": "USD", "region": "Vietnam" }
+    ]
+  },
+  "types": {
+    "title": "Types of Lotus Flowers",
+    "description": "Explore the diverse varieties of lotus flowers found around the world.",
+    "items": [
+      { "name": "Sacred Lotus", "scientificName": "Nelumbo nucifera", "color": "Pink", "petalCount": "20-30", "origin": "Asia", "description": "The most well-known lotus species, revered in many Asian cultures for its spiritual significance." },
+      { "name": "American Lotus", "scientificName": "Nelumbo lutea", "color": "Yellow", "petalCount": "20-25", "origin": "North America", "description": "Native to eastern North America, this species produces pale yellow flowers." },
+      { "name": "Blue Lotus", "scientificName": "Nymphaea caerulea", "color": "Blue", "petalCount": "15-20", "origin": "East Africa", "description": "An ancient Egyptian sacred flower known for its psychoactive properties." },
+      { "name": "White Lotus", "scientificName": "Nymphaea lotus", "color": "White", "petalCount": "18-25", "origin": "Egypt & Southeast Asia", "description": "Symbolizes purity and enlightenment in many spiritual traditions." },
+      { "name": "Red Lotus", "scientificName": "Nelumbo nucifera (red cultivar)", "color": "Red", "petalCount": "22-30", "origin": "Thailand", "description": "A vibrant cultivar representing compassion and love in Buddhist symbolism." },
+      { "name": "Dwarf Lotus", "scientificName": "Nelumbo nucifera (dwarf)", "color": "Various", "petalCount": "15-20", "origin": "China & Japan", "description": "Compact varieties ideal for container gardening and small ponds." },
+      { "name": "Double-Petal Lotus", "scientificName": "Nelumbo nucifera (double)", "color": "Pink/White", "petalCount": "50-100+", "origin": "China", "description": "Prized for their extravagant layered petal formations." },
+      { "name": "Miniature Lotus", "scientificName": "Nelumbo nucifera (mini)", "color": "Pink/White", "petalCount": "12-18", "origin": "Japan", "description": "Tiny lotus plants perfect for tabletop water gardens." }
+    ]
+  },
+  "cultivationPlaces": {
+    "title": "Lotus Cultivation Places",
+    "description": "Major regions worldwide where lotus flowers are cultivated commercially and traditionally.",
+    "items": [
+      { "country": "India", "region": "Kashmir, Kerala, West Bengal", "climate": "Tropical to Subtropical", "annualProduction": "50,000 tons", "speciality": "Sacred lotus for temple offerings" },
+      { "country": "China", "region": "Hubei, Jiangxi, Hunan", "climate": "Subtropical", "annualProduction": "200,000 tons", "speciality": "Lotus root and seed production" },
+      { "country": "Vietnam", "region": "Mekong Delta, Dong Thap", "climate": "Tropical", "annualProduction": "30,000 tons", "speciality": "Lotus tea and silk production" },
+      { "country": "Thailand", "region": "Central Plains, Nong Han Lake", "climate": "Tropical", "annualProduction": "25,000 tons", "speciality": "Red lotus lakes for tourism" },
+      { "country": "Japan", "region": "Ibaraki, Saga, Tokushima", "climate": "Temperate", "annualProduction": "15,000 tons", "speciality": "Ornamental and culinary lotus" },
+      { "country": "Egypt", "region": "Nile Delta", "climate": "Arid", "annualProduction": "5,000 tons", "speciality": "Blue lotus for traditional use" },
+      { "country": "Australia", "region": "Northern Territory, Queensland", "climate": "Tropical", "annualProduction": "3,000 tons", "speciality": "Native water lily species" },
+      { "country": "United States", "region": "Mississippi Delta, Florida", "climate": "Subtropical", "annualProduction": "2,000 tons", "speciality": "American lotus conservation" }
+    ]
+  },
+  "seasons": {
+    "title": "Lotus Growing Seasons",
+    "description": "Understanding the seasonal cycles of lotus flower growth and bloom periods.",
+    "items": [
+      { "season": "Spring (March-May)", "activity": "Planting & Sprouting", "description": "Lotus tubers are planted in warm mud. Sprouts emerge as water temperatures rise above 15\u00b0C.", "idealTemp": "15-25\u00b0C" },
+      { "season": "Early Summer (June)", "activity": "Leaf Growth", "description": "Rapid foliage development with large circular leaves rising above the water surface.", "idealTemp": "25-30\u00b0C" },
+      { "season": "Mid Summer (July-August)", "activity": "Peak Bloom", "description": "The main flowering season. Flowers open at dawn and close in the afternoon for 3-4 days.", "idealTemp": "28-35\u00b0C" },
+      { "season": "Late Summer (September)", "activity": "Seed Formation", "description": "Flowers fade and iconic seed pods develop. Seeds mature within the distinctive cone-shaped receptacle.", "idealTemp": "25-30\u00b0C" },
+      { "season": "Autumn (October-November)", "activity": "Harvest & Dormancy Prep", "description": "Lotus roots are harvested. Plant begins storing energy in rhizomes for winter dormancy.", "idealTemp": "15-25\u00b0C" },
+      { "season": "Winter (December-February)", "activity": "Dormancy", "description": "Lotus plants go dormant. Rhizomes survive under water and mud, protected from frost.", "idealTemp": "0-10\u00b0C" }
+    ]
+  },
+  "farming": {
+    "title": "Lotus Farming Guide",
+    "description": "Comprehensive guide to lotus farming techniques, from pond preparation to harvest.",
+    "items": [
+      { "step": 1, "title": "Pond Preparation", "description": "Prepare a pond or container with 15-30 cm of rich, loamy soil. Water depth should be 30-60 cm above the soil.", "tips": "Use clay-heavy soil that won't float away. Avoid sandy or rocky substrate." },
+      { "step": 2, "title": "Tuber Selection", "description": "Choose healthy rhizomes with at least two growth nodes. Look for firm, unblemished tubers.", "tips": "Purchase from reputable nurseries. Avoid tubers with mold or soft spots." },
+      { "step": 3, "title": "Planting", "description": "Place tubers horizontally in the mud with growing tips pointing slightly upward. Cover lightly with soil.", "tips": "Plant in spring when water temperature reaches 15\u00b0C. Space plants 60-90 cm apart." },
+      { "step": 4, "title": "Water Management", "description": "Maintain consistent water levels. Lotus prefers still or slow-moving warm water.", "tips": "Use a float valve for consistent levels. Avoid strong currents or fountains." },
+      { "step": 5, "title": "Fertilization", "description": "Apply aquatic plant fertilizer tablets monthly during the growing season.", "tips": "Push tablets into the soil near roots. Avoid liquid fertilizers that promote algae." },
+      { "step": 6, "title": "Pest Control", "description": "Watch for aphids, spider mites, and lotus leaf beetles. Use organic methods when possible.", "tips": "Introduce beneficial insects. Remove affected leaves promptly." },
+      { "step": 7, "title": "Harvesting Flowers", "description": "Cut stems early morning when flowers are just opening. Leave at least 10 cm of stem above water.", "tips": "Use clean, sharp shears. Harvest every 2-3 days during peak bloom." },
+      { "step": 8, "title": "Root Harvest", "description": "Harvest lotus roots in late autumn after foliage dies back. Carefully dig rhizomes from the mud.", "tips": "Use water pressure to loosen soil around roots. Handle gently to avoid breaking." }
+    ]
+  },
+  "medicinalUses": {
+    "title": "Medicinal Uses of Lotus",
+    "description": "Traditional and modern medicinal applications of various lotus plant parts.",
+    "items": [
+      { "part": "Seeds", "use": "Anti-aging & Heart Health", "description": "Lotus seeds contain antioxidants and alkaloids that support cardiovascular health and slow cellular aging.", "preparation": "Dried seeds brewed as tea or ground into powder supplements." },
+      { "part": "Leaves", "use": "Weight Management", "description": "Lotus leaf extract has been shown to inhibit fat absorption and boost metabolism.", "preparation": "Dried leaves steeped as herbal tea, 2-3 cups daily." },
+      { "part": "Root (Rhizome)", "use": "Digestive Health", "description": "Rich in dietary fiber, lotus root aids digestion and helps regulate blood sugar levels.", "preparation": "Sliced and cooked in soups, or juiced raw for maximum benefit." },
+      { "part": "Flower Petals", "use": "Stress Relief & Sleep Aid", "description": "Lotus petal extracts have mild sedative properties that promote relaxation and improve sleep quality.", "preparation": "Dried petals in herbal tea blends or aromatherapy sachets." },
+      { "part": "Stamens", "use": "Kidney & Liver Support", "description": "Lotus stamens are used in traditional Chinese medicine to support kidney and liver function.", "preparation": "Dried stamens brewed as medicinal tea." },
+      { "part": "Seed Pod", "use": "Astringent & Anti-diarrheal", "description": "The mature seed pod has astringent properties used to treat chronic diarrhea.", "preparation": "Dried pods decocted and consumed as medicinal brew." },
+      { "part": "Stem", "use": "Cooling & Detoxifying", "description": "Lotus stems help cool the body and are used in Ayurvedic medicine for detoxification.", "preparation": "Fresh stems juiced or added to herbal formulations." },
+      { "part": "Embryo (Plumule)", "use": "Blood Pressure Regulation", "description": "The green embryo inside lotus seeds contains isoquinoline alkaloids that help lower blood pressure.", "preparation": "Removed from seeds and brewed as bitter medicinal tea." }
+    ]
+  },
+  "culinaryUses": {
+    "title": "Culinary Uses of Lotus",
+    "description": "Delicious ways lotus is used in cuisines around the world.",
+    "items": [
+      { "dish": "Lotus Root Chips", "cuisine": "Japanese", "part": "Root", "description": "Thinly sliced lotus root deep-fried until crispy. A popular snack showcasing the root's beautiful lace pattern.", "difficulty": "Easy" },
+      { "dish": "Lotus Root Stir-Fry", "cuisine": "Chinese", "part": "Root", "description": "Sliced lotus root quickly stir-fried with vegetables in a savory sauce, maintaining its satisfying crunch.", "difficulty": "Easy" },
+      { "dish": "Lotus Seed Paste Mooncake", "cuisine": "Chinese", "part": "Seeds", "description": "Traditional mooncake filling made from ground lotus seeds, sugar, and oil. A Mid-Autumn Festival staple.", "difficulty": "Advanced" },
+      { "dish": "Lotus Stem Curry", "cuisine": "Indian (Kashmiri)", "part": "Stem", "description": "Nadru Yakhni - lotus stems cooked in a yogurt-based gravy with aromatic Kashmiri spices.", "difficulty": "Moderate" },
+      { "dish": "Lotus Leaf Rice", "cuisine": "Chinese (Cantonese)", "part": "Leaves", "description": "Sticky rice with fillings wrapped in lotus leaves and steamed, infusing a subtle fragrance.", "difficulty": "Moderate" },
+      { "dish": "Lotus Tea", "cuisine": "Vietnamese", "part": "Flowers", "description": "Green tea scented overnight with fresh lotus blossoms. A prized beverage in Vietnamese culture.", "difficulty": "Easy" },
+      { "dish": "Lotus Seed Soup", "cuisine": "Chinese", "part": "Seeds", "description": "Sweet dessert soup with lotus seeds, red dates, and longan. Believed to nourish the heart.", "difficulty": "Easy" },
+      { "dish": "Stuffed Lotus Root", "cuisine": "Chinese (Zhejiang)", "part": "Root", "description": "Lotus root holes filled with glutinous rice, steamed, and drizzled with osmanthus syrup.", "difficulty": "Moderate" }
+    ]
+  },
+  "exportTrends": {
+    "title": "Lotus Export Trends",
+    "description": "Global export data and market trends for lotus products.",
+    "items": [
+      { "year": 2020, "totalExportValue": 1.2, "topExporter": "China", "topImporter": "Japan", "growthRate": 3.5, "keyProduct": "Lotus Root" },
+      { "year": 2021, "totalExportValue": 1.35, "topExporter": "China", "topImporter": "South Korea", "growthRate": 12.5, "keyProduct": "Lotus Root" },
+      { "year": 2022, "totalExportValue": 1.5, "topExporter": "China", "topImporter": "Japan", "growthRate": 11.1, "keyProduct": "Lotus Seeds" },
+      { "year": 2023, "totalExportValue": 1.7, "topExporter": "Vietnam", "topImporter": "United States", "growthRate": 13.3, "keyProduct": "Lotus Tea" },
+      { "year": 2024, "totalExportValue": 1.95, "topExporter": "China", "topImporter": "European Union", "growthRate": 14.7, "keyProduct": "Lotus Extract" },
+      { "year": 2025, "totalExportValue": 2.2, "topExporter": "Vietnam", "topImporter": "United States", "growthRate": 12.8, "keyProduct": "Lotus Silk" }
+    ],
+    "exporterShares": [
+      { "country": "China", "share": 45 },
+      { "country": "Vietnam", "share": 20 },
+      { "country": "India", "share": 15 },
+      { "country": "Thailand", "share": 10 },
+      { "country": "Others", "share": 10 }
+    ]
+  },
+  "gallery": {
+    "title": "Lotus Flower Gallery",
+    "description": "A curated collection of stunning lotus flower images.",
+    "items": [
+      { "id": 1, "title": "Pink Sacred Lotus", "description": "A fully bloomed sacred lotus in a tranquil pond at sunrise.", "color": "#E91E63", "icon": "local_florist" },
+      { "id": 2, "title": "White Lotus Bud", "description": "An elegant white lotus bud about to open in the morning light.", "color": "#F5F5F5", "icon": "eco" },
+      { "id": 3, "title": "Blue Water Lily", "description": "The rare blue lotus floating peacefully on still waters.", "color": "#2196F3", "icon": "water" },
+      { "id": 4, "title": "Red Lotus Field", "description": "A vast field of red lotus flowers in Udon Thani, Thailand.", "color": "#F44336", "icon": "landscape" },
+      { "id": 5, "title": "Lotus Seed Pod", "description": "The distinctive seed pod of a lotus after petals have fallen.", "color": "#795548", "icon": "grain" },
+      { "id": 6, "title": "Yellow American Lotus", "description": "Native American lotus blooming in a Southern wetland.", "color": "#FFC107", "icon": "filter_vintage" },
+      { "id": 7, "title": "Lotus Leaves", "description": "Giant lotus leaves with water droplets creating the famous lotus effect.", "color": "#4CAF50", "icon": "spa" },
+      { "id": 8, "title": "Double Petal Lotus", "description": "An ornamental double-petal lotus with over 100 delicate petals.", "color": "#FF9800", "icon": "yard" },
+      { "id": 9, "title": "Lotus at Dusk", "description": "A solitary lotus flower silhouetted against a golden sunset.", "color": "#FF5722", "icon": "wb_twilight" },
+      { "id": 10, "title": "Lotus Root Cross-section", "description": "The beautiful lacework pattern of a sliced lotus root.", "color": "#9E9E9E", "icon": "restaurant" },
+      { "id": 11, "title": "Lotus in Rain", "description": "Raindrops beading on lotus petals showcasing their hydrophobic surface.", "color": "#00BCD4", "icon": "water_drop" },
+      { "id": 12, "title": "Miniature Lotus", "description": "A delicate miniature lotus variety growing in a ceramic bowl.", "color": "#9C27B0", "icon": "potted_plant" }
+    ]
+  },
+  "faqs": {
+    "title": "Lotus Flower FAQs",
+    "description": "Frequently asked questions about lotus flowers.",
+    "items": [
+      { "question": "What is the difference between a lotus and a water lily?", "answer": "Lotus (Nelumbo) and water lilies (Nymphaea) are often confused but belong to different families. Lotus leaves and flowers rise above the water on tall stems, while water lily leaves and flowers typically float on the surface. Lotus leaves are round and cupped, while water lily leaves have a slit." },
+      { "question": "Can I grow lotus in a container?", "answer": "Yes! Dwarf and miniature lotus varieties are excellent for container growing. Use a wide, shallow container (at least 40 cm diameter) without drainage holes. Fill with heavy garden soil, plant the tuber, and cover with 10-15 cm of water. Place in full sun for at least 6 hours daily." },
+      { "question": "How long do lotus flowers bloom?", "answer": "Individual lotus flowers last 3-4 days. They open in the morning and close in the afternoon. The overall blooming season lasts from mid-summer through early fall, with peak bloom in July-August in the Northern Hemisphere." },
+      { "question": "Are all parts of the lotus edible?", "answer": "Yes, almost every part of the lotus plant is edible: roots (rhizomes), seeds, young leaves, stems, and even flower petals. Lotus root is the most commonly consumed part, widely used in Asian cuisines for its crisp texture and mild flavor." },
+      { "question": "What does the lotus flower symbolize?", "answer": "The lotus symbolizes purity, enlightenment, and rebirth across many cultures. In Buddhism, it represents spiritual awakening. In Hinduism, it's associated with divine beauty and creation. The lotus growing from muddy water to bloom in pristine beauty is a powerful metaphor for overcoming adversity." },
+      { "question": "How deep should the water be for growing lotus?", "answer": "For optimal growth, maintain 15-30 cm of water above the soil surface for most varieties. Dwarf varieties can grow in as little as 10 cm of water. The total depth including soil should be 45-75 cm. Water that is too deep may prevent leaves from reaching the surface." },
+      { "question": "Do lotus flowers come back every year?", "answer": "Yes, lotus is a perennial plant. In climates where the rhizomes don't freeze, lotus will return each spring. In colder regions, protect the rhizomes by ensuring the pond doesn't freeze solid, or store tubers in damp sand indoors over winter." },
+      { "question": "What is the lotus effect?", "answer": "The lotus effect refers to the self-cleaning property of lotus leaves. Their surface has microscopic bumps coated in wax that make water bead up and roll off, carrying dirt and debris with it. This superhydrophobic property has inspired many industrial applications, from self-cleaning paints to waterproof fabrics." },
+      { "question": "Can lotus survive in cold climates?", "answer": "Lotus can survive winter in USDA zones 4-10, provided the rhizomes don't freeze. In cold climates, ensure the pond is deep enough (at least 60 cm) so the bottom doesn't freeze. Alternatively, grow lotus in containers and move them to a frost-free location in winter." },
+      { "question": "How do I propagate lotus?", "answer": "Lotus can be propagated by dividing rhizomes in early spring or by growing from seed. Rhizome division is faster and more reliable. For seeds, nick the hard seed coat, soak in warm water until sprouting (7-14 days), then plant in soil under shallow water." }
+    ]
+  }
+}
