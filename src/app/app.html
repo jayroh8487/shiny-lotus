@@ -5,10 +5,10 @@
     [opened]="!isMobile()"
     class="app-sidenav"
   >
-    <div class="sidenav-header">
+    <a class="sidenav-header" routerLink="/types">
       <mat-icon class="logo-icon">local_florist</mat-icon>
       <span class="logo-text">Shiny Lotus</span>
-    </div>
+    </a>
     <mat-nav-list>
       @for (item of navItems; track item.route) {
         <a
